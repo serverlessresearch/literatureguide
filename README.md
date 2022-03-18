@@ -1,8 +1,8 @@
-# Serverless Research Bibliography
+# Serverless Literature Guide
 
-This *Serverless Research Bibliography* aims to provide an overview of a once-niche field that has grown rapidly.
+This *Serverless Literature Guide* aims to provide an overview of a once-niche field that has grown rapidly.
 
-This is the source code for the [web site](https://serverlessresearch.github.io/serverlessbibliography/).
+This is the source code for the [web site](https://serverlessresearch.github.io/literatureguide/).
 
 ## Contribution Guidelines
 
@@ -23,7 +23,7 @@ docker run --rm \
   jekyll serve
 ```
 
-Then open a browser at `http://localhost:4000/serverlessbibliography/`.
+Then open a browser at `http://localhost:4000/literatureguide/`.
 
 ## Additional notes Notes
 
